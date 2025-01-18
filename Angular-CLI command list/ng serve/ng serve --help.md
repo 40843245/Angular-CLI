@@ -1,4 +1,6 @@
-ng serve --open --help
+ng serve --help
+
+```
 ng serve [project]                                                                                                      
 Builds and serves your application, rebuilding on file changes.
 
@@ -45,3 +47,4 @@ Options:
       --ssl-key             SSL key to use for serving HTTPS.                                                   [string]
       --verbose             Adds more details to output logging.                                               [boolean]
       --watch               Rebuild on change.                                                 [boolean] [default: true]
+```
